@@ -3,3 +3,6 @@
 Soy músico, fotógrafo, videografo, diseñador y ahora programador.
 ### Contáctame
 Para cualquier consulta o asesoramiento encuentrame en redes sociales como @rodatsu. 
+## Skills
+-Designer
+-Photographer
