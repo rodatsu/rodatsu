@@ -6,4 +6,4 @@ Para cualquier consulta o asesoramiento encuentrame en redes sociales como @roda
 ## Tec
 -HTML
 -CSS
--JS 
+-JS # rodatsu
