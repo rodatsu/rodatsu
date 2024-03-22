@@ -17,3 +17,8 @@ Para cualquier consulta o asesoramiento encuentrame en redes sociales como @roda
 ## Lenguajes
 - English
 - Spanish
+ 
+## Tec
+- HTML
+- CSS
+- JS
