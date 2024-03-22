@@ -9,3 +9,11 @@ Para cualquier consulta o asesoramiento encuentrame en redes sociales como @roda
 ## Hobbies
 - Gym
 - Música
+
+## Skills
+- Designer
+- Photographer 
+
+## Lenguajes
+- English
+- Spanish
